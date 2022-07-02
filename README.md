@@ -43,4 +43,9 @@ Merubah Description
 Setelah diupdate 
 ![image](https://user-images.githubusercontent.com/108543846/177000154-e740f037-4716-45a1-a30c-9e00f948185d.png)
 
+# FlowChart
+Awal mulai akan menampilkan home page, pada halaman home page terdapat tombol create , brita yang sudah dibuat dan beserta gambar yasng sudah di isi sebelumnya.
+Ketika pengguna menekan tombol dari create akan berpindah ke halaman create dimana akan diminta data nama, description yang berupa text dan file gambar.
+Setelah di submit maka data akan tampil di halaman Home dan pada Halaman Home, terdapat tombol mata dimana jika ditekan akan berpindah ke halaman menampilkan data detail dari yang dipilih, setelah itu akan muncul tombol update dimana pada bagian update dapat merubah data taxt dan file gambar yang sebelumnya sudah di upload ke database.
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/108543846/177001147-db2b6af3-c1c8-496e-bf24-81d8bf38755d.png)
 
